@@ -1,0 +1,32 @@
+# Proposal
+
+Summary:
+  For my project I have decided to modify a low poly style sheet metal chair that I built. I will be making the chair into an interactive sound machine. The many different faces of the form will each be turned into a pad that will play a unique sound. i will lay copper over the different faces and turn each one into a separate capacitive sensor.  One of the faces will act as a switch that will activate a different set of tones. The piece will essentially be a large interactive beat pad.
+
+Component Parts:
+
+Chair - Already made.
+Copper Foil - To be purchased.
+Arduino Uno - Already acquired.
+Arduino SD Extension - Will check out for project.
+Wiring - To be purchased.
+Speaker - Already acquired.
+100k resistor
+1k resistor
+insulator like tape or something- will purchase
+
+
+Challenges:
+
+I think one of the difficulties I will run into will be adjusting the sensitivity and delay of the pads to the right levels. I think it will also difficult for me to write the code that will make the tones switch to a new set. Getting the sheets of copper to fit the shapes and laying down the insulator will be time consuming.
+
+Project Timeline:
+
+Week 1 - Do finishing grind work on chair. Cut access door into existing metal bottom and weld shelf for electronics.
+
+Week 2 -  Attach copper and drill holes for wires to feed from copper into the chair. 
+
+Week 3 - Perform capacitive sensor tests specifically testing how well it works over a widespread area. Write code and prepare sound files.
+
+Week 4 - Assemble and fine tune.
+
